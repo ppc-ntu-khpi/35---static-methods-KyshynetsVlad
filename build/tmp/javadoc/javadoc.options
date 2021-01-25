@@ -1,0 +1,8 @@
+-classpath 'B:\\Проэкт\\NetBeans\\OXO\\build\\classes\\java\\main;B:\\Проэкт\\NetBeans\\OXO\\build\\resources\\main'
+-d 'B:\\Проэкт\\NetBeans\\OXO\\build\\docs\\javadoc'
+-doctitle 'OXO API'
+-notimestamp 
+-quiet 
+-windowtitle 'OXO API'
+'B:\\Проэкт\\NetBeans\\OXO\\src\\main\\java\\OXO\\domain\\Exercise.java'
+'B:\\Проэкт\\NetBeans\\OXO\\src\\main\\java\\OXO\\test\\TestResult.java'
