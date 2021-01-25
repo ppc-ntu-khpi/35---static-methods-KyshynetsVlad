@@ -81,5 +81,5 @@ public class TestResult {
 
 ##Скріншоти
 
-<img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/1.png" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/2.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/tree/master/Scrins/1.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/tree/master/Scrins2.png" width="100%"/>
