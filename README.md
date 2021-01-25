@@ -81,5 +81,5 @@ public class TestResult {
 ``` 
 ## Скріншоти
 
-![Done](https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/tree/master/Scrins/1.png "Done")
-![Done](https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/tree/master/Scrins/2.png "Done")
+![Done](https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/blob/master/Scrins/1.png "Done")
+![Done](https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/blob/master/Scrins/2.png "Done")
