@@ -45,12 +45,12 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-##Виконання:
+## Виконання:
 Я описав завдання номер 23 "Розрахунок числа долі за заданою датою народження".
 
-##Код:
+## Код:
 
-##CLASS Exercise:
+## CLASS Exercise:
 
 package domain;
 public class Exercise {
@@ -68,7 +68,7 @@ public class Exercise {
     }
 }
 
-##CLASS TestResult:
+##C LASS TestResult:
 
 package test;
 import domain.Exercise;
@@ -79,7 +79,7 @@ public class TestResult {
     }
 }
 
-##Скріншоти
+## Скріншоти
 
 <img src="https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/tree/master/Scrins/1.png" width="100%"/>
 <img src="https://github.com/ppc-ntu-khpi/35---static-methods-KyshynetsVlad/tree/master/Scrins2.png" width="100%"/>
