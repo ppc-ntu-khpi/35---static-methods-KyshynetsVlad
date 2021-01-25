@@ -44,4 +44,38 @@
 24. Розрахувати поточне (на сьогоднішній день) значення [біоритмів людини](http://uchinfo.com.ua/inform/excel/bioritm.htm) за заданою датою народження 
 
 [![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+##Виконання:
+Я описав завдання номер 23 "Розрахунок числа долі за заданою датою народження".
+##Код:
+##CLASS Exercise:
 
+package domain;
+public class Exercise {
+    public static String Calculate(String s) {
+        while (s.length() > 1) {
+            int sum = 0;
+            for (char c : s.toCharArray()) {
+                if (Character.isDigit(c)) {
+                    sum += (c - '0');
+                }
+            }
+            s = String.valueOf(sum);
+        }
+        return s;
+    }
+}
+
+##CLASS TestResult:
+
+package test;
+import domain.Exercise;
+public class TestResult {
+    public static void main(String[] args) {
+        String s = "17.01.2003";
+        System.out.println("You number of fate = "+ Exercise.Calculate(s));
+    }
+}
+
+##Скріншоти
+<img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/1.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/2.png" width="100%"/>
